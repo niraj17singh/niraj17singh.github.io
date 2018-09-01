@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anirudhk686"
+title                    : "Sweta02018"
 title_separator          : "-"
-name                     : &name "Anirudh Kemtur"
+name                     : &name "Sweta Kumari"
 description              : &description "profile"
-url                      : https://anirudhk686.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Sweta02018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anirudhk686/anirudhk686.github.io"
+repository               : "Sweta02018/Sweta02018.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anirudh Kemtur"
+  name             : "Sweta Kumari"
   avatar           : "p2.jpg"
   bio              : "A curious geek, aspiring to decipher the brain"
-  location         : "BITS Pilani,India"
+  location         : "IIT Madras,India"
   employer         :
   googlescholar    : 
-  email            : "anirudhk686@gmail.com"
+  email            : "sweta.csebcetw@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "anirudhk686"
+  github           : "Sweta02018"
   google_plus      :
   keybase          :
   instagram        :
