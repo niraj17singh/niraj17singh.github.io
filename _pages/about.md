@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ***
-I am a 3rd-year undergraduate student, pursuing a five year dual degree programme of Bachelors in Computer Science and Masters in Economics at Birla Institute of Technology and Science, Pilani.
+I am a 2nd-year Ph.D scholar in Computational Neuroscience Laboratory at department of Biotechnology, Indian Institute of Technology, Madras. I am working under the supervision of Prof. V. Srinivasa Chakravarthy.
 
   <Edit required>
 
