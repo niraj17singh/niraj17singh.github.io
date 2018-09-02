@@ -9,5 +9,5 @@ redirect_from:
 {{ page.excerpt | markdownify }}
 
 #### <span style="font-size: 2em;">Email :</span>
- [anirudhk686@gmail.com](mailto:anirudhk686@gmail.com) <br>
- [f2015626@pilani.bits-pilani.ac.in](mailto:f2015626@pilani.bits-pilani.ac.in)
+ [sweta.csebcetw@gmail.com](mailto:sweta.csebcetw@gmail.com) <br>
+ [bt17d019@smail.iitm.ac.in](mailto:bt17d019@smail.iitm.ac.in)
