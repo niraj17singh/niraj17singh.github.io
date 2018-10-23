@@ -46,18 +46,22 @@ It works with almost all markdown flavours (the below blank line matters).
 | There really      | should be one              |
 --------------------------------------------------
 <div class="container">
-  <div class="row">
-    <div class="col-xs-6" id="div1">
-      Some content...
+    <div class="row">
+	
+	<div class="col-xs-6 col-sm-6">
+            <div id="navigation">
+                <label>side Column</label>
+            </div>
+            
+        </div>
+        <div class="col-xs-6 col-sm-6">
+            <div id="text1">
+                <label>First Divider</label>
+            </div>
+            <div id="text2">
+                <label>second Divider</label>
+            </div>
+        </div>
+        
     </div>
-    <div class="col-xs-6" id="div2">
-
-      <div id="div2-1">
-hi
-      </div>
-      <div id="div2-2">
-hello
-      </div>
-    </div>
-  </div>
 </div>
