@@ -37,7 +37,7 @@ Ph.D Student
 ***
 
 <br>
-![test](Tamizharasan.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
+![test](Tamizharasan.gif){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
 ### Tamizharasan Kanagamani
 Ph.D Student
 <br><span style="font-size: 1em;">Email Id:</span>
