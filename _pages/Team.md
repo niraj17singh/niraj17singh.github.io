@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-<div>
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
 # Niraj Kumar Singh 
 
