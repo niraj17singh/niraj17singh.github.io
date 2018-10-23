@@ -20,7 +20,9 @@ Project Associate
 Ph.D Student
 <br><span style="font-size: 1em;">Email Id:</span>
 [sweta.csebcetw@gmail.com](mailto:sweta.csebcetw@gmail.com) 
+<br>
 
+***
 
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
@@ -28,6 +30,9 @@ Ph.D Student
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
 [ojasvitawalgad@gmail.com](mailto:ojasvitawalgad@gmail.com) 
+<br>
+
+***
 
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
@@ -35,6 +40,9 @@ Masters Dual Degree
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+<br>
+
+***
 
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
