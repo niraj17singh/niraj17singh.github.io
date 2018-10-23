@@ -1,6 +1,6 @@
 ---
-permalink: /Contact us/
-title: ""
+permalink: /Contact/
+title: "Contact us"
 excerpt: ""
 author_profile: true
 redirect_from: 
