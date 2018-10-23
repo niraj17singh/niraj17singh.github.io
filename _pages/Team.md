@@ -7,6 +7,12 @@ redirect_from:
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; alt:hi; bottom-margin:0px;"}
 ### Niraj Kumar Singh 
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
