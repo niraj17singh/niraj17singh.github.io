@@ -8,6 +8,6 @@ redirect_from:
 ## Collaboration
 Text
 <br><br>
-![test](a.png){:.some-css-class style="width: 600px; height: 300px; "} 
-![test](b.png){:.some-css-class style="width: 600px; height: 300px; "}
+![test](a.png){:.some-css-class style="width: 800px; height: 500px; "} 
+![test](b.png){:.some-css-class style="width: 800px; height: 500px; "}
 
