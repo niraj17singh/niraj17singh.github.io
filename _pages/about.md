@@ -14,7 +14,7 @@ We are Neuromotive team working in Computational Neuroscience Lab under Prof. V.
 [![test](cns.png){:.some-css-class style="width: 100px; height: 100px;"}](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![test](conti.png){:.some-css-class style="width: 100px; height: 100px; "}](https://www.continental-corporation.com/en)
+[![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}](https://www.continental-corporation.com/en)
 <br>
 
 
