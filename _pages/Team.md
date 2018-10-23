@@ -6,12 +6,12 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](neuromotive.jpg)
+![test](Niraj.jpeg)
 
 ## Niraj Kumar Singh     
 
-![test](neuromotive.jpg)
-<img src="neuromotive.jpg"
+![test](Sweta.jpg)
+<img src="Sweta.jpg"
      alt=""
      style="float: left; margin-right: 10px; width: 5px; height: 5px;" />
      
