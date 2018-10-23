@@ -21,7 +21,12 @@ redirect_from:
 
 <br>
 
-### Current Members
+<p align="center">
+  
+  ## Current Members
+  
+</p>
+<br>
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 ### Niraj Kumar Singh
 Project Associate
@@ -82,6 +87,5 @@ Masters Dual Degree
 ***
 
 <br>
-### Alumni
 
 ---
