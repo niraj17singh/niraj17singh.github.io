@@ -13,7 +13,7 @@ redirect_from:
 ![test](neuromotive.jpg)
 <img src="neuromotive.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 10px; height: 10;" />
      
 ## Sweta Kumari
 ![test](neuromotive.jpg)
