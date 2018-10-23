@@ -7,27 +7,28 @@ redirect_from:
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 Niraj Kumar Singh
+<br>
 Project Associate
 
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
-Sweta Kumari
+Sweta Kumari<br>
 Ph.D Student
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
-Ojasvita
+Ojasvita<br>
 Masters Dual Degree
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-Nikhil
+Nikhil<br>
 Masters Dual Degree
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-Rajat
+Rajat<br>
 Masters Dual Degree
 ***
 <br>
