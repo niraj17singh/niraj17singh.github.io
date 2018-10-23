@@ -17,26 +17,30 @@ Project Associate
 Ph.D Student
 <br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
-***
+
+
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
 ###  Ojasvita
 Masters Dual Degree
-<br>Email Id: neerajajaysingh17@gmail.com
-***
+<br><span style="font-size: 1em;">Email Id:</span>
+[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 ### Nikhil
 Masters Dual Degree
-<br>Email Id: neerajajaysingh17@gmail.com
-***
+<br><span style="font-size: 1em;">Email Id:</span>
+[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 ### Rajat<br>
 Masters Dual Degree
-<br>
-Email Id: neerajajaysingh17@gmail.com
-***
+<br><span style="font-size: 1em;">Email Id:</span>
+[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+
+
 <br>
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
