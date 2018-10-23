@@ -6,7 +6,8 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## In Visual Attention Model, our Neuromotive team is divided into two groups. One is working in attention model and the other one is working in Eye-Tracker.  
+## Introduction of the Visual Attention Model Project 
+In Visual Attention Model, our Neuromotive team is divided into two groups. One is working in attention model and the other one is working in Eye-Tracker.  
 ## Attention Model for Object Detection<br>
 * In this work we are focusing on implementation of the model which will search for the target object in the same manner as human looks at the interested object in the entire image. 
 * Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
