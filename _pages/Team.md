@@ -5,9 +5,9 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
+### Supervisor
 ![test](Srinivasa.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 ### [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/index.php/v-srinivasa-chakravarthy/)
-Supervisor
 <br><span style="font-size: 1em;">Email Id:</span>
 [srinivasa.chakravarthy@gmail.com](mailto:srinivasa.chakravarthy@gmail.com) 
 <br>
@@ -15,6 +15,8 @@ Supervisor
 ***
 
 <br>
+
+### Current Members
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 ### Niraj Kumar Singh
 Project Associate
@@ -30,6 +32,16 @@ Project Associate
 Ph.D Student
 <br><span style="font-size: 1em;">Email Id:</span>
 [sweta.csebcetw@gmail.com](mailto:sweta.csebcetw@gmail.com) 
+<br>
+
+***
+
+<br>
+![test](Tamizharasan.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
+### Tamizharasan Kanagamani
+Ph.D Student
+<br><span style="font-size: 1em;">Email Id:</span>
+[tamizharasan.mit@gmail.com](mailto:tamizharasan.mit@gmail.com) 
 <br>
 
 ***
@@ -60,5 +72,11 @@ Masters Dual Degree
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+<br>
+
+***
+
+<br>
+### Alumni
 
 ---
