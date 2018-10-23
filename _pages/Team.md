@@ -43,7 +43,7 @@ It works with almost all markdown flavours (the below blank line matters).
 
 ***
 --------------------------------------------------
-| No | Sadly        | There is none              |
+| ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"} | Sadly        | There is none              |
 --------------------------------------------------
 | Except this, which is a poor alternative       |
 --------------------------------------------------
