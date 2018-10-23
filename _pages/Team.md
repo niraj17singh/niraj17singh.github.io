@@ -6,7 +6,8 @@ author_profile: true
 redirect_from: 
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
-###Niraj Kumar Singh
+Niraj Kumar Singh
+Project Associate
 
 ***
 <br>
