@@ -7,7 +7,7 @@ redirect_from:
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; alt:hi; bottom-margin:0px;"}
 ### Niraj Kumar Singh 
-**
+***
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
 ### Sweta Kumari
 <br><br>
