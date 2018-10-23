@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ***
-### Developing bio-inspired  Automated DriverAdvanced Driver- Assistance Systems (ADAS) for Continental Automotive:
+### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive:
 
 Although deep neural networks have been successfully applied to solve various problems related to automotive navigation and have been pushing the development of Advanced Driver-Assistance Systems (ADAS), they fall short of human performance by a wide margin. The original inspiration behind deep neural networks is indisputably biological and neural. But the inspiration had borrowed to broad ideas from brain science: the idea of a neuron and the idea of a trainable network. The program of borrowing ideas from the brain perhaps has not been carried through to its consummation. To design more human-like ADAS systems one has to look for inspiration deeper in the brain, at the level of brain architecture.
 There is a demand to create ADAS systems that emulate the brain at the architecture level. In mammalian brains, hippocampus received a lot of attention as a key system involved in spatial navigation. The discovery of place and grid cells, - cells that encode the surrounding space in intriguing ways, - was awarded the Nobel prize in physiology and medicine in 2014. 
@@ -21,10 +21,10 @@ Our lab is currently engaged with Continental Automotive aiming at designing bio
 [Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).]()
 <br>
 
-[Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A unified hierarchical oscillatory network model of head direction cells, spatially periodic cells, and place cells." European Journal of Neuroscience 47.10 (2018): 1266-1281. PDF]()
+Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A unified hierarchical oscillatory network model of head direction cells, spatially periodic cells, and place cells." European Journal of Neuroscience 47.10 (2018): 1266-1281. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejn.13918)
 <br>
 
-[Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space. PDF]()
+Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space. [PDF](https://www.biorxiv.org/content/early/2018/02/13/264366.full.pdf)
 <br>
 
 [Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Chakravarthy, S. (2017). A computational model that explores the effect of environmental geometries on grid cell representations. (Bioarxiv)]()
