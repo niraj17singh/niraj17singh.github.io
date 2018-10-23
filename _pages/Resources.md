@@ -6,10 +6,12 @@ author_profile: true
 redirect_from: 
 ---
 
-## Niraj Kumar Singh
+## Resources
 
-* Leading a team of twelve members, who are mentoring about fifteen individuals working as Security guards and Janitors in our college to acquire basic English and Computer skills.
-* Instead of teaching them the skills itself we try to teach them how to learn those skills through youtube.
+* Computational Neuroscience Course which is available in nptel lecture from Prof. V Srinivasa Chakravarthy.
+* [Convolutional Neural Network Theory](http://cs231n.github.io/)
+* [Convolutional Assignment] (https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+* [Tensorflow Standford Course] (http://web.stanford.edu/class/cs20si/syllabus.html)
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
