@@ -16,7 +16,7 @@ Project Associate
 ### Sweta Kumari
 Ph.D Student
 <br><span style="font-size: 1em;">Email Id:</span>
-[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+[sweta.csebcetw@gmail.com](mailto:sweta.csebcetw@gmail.com) 
 
 
 <br>
@@ -24,7 +24,7 @@ Ph.D Student
 ###  Ojasvita
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
-[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
+[ojasvitawalgad@gmail.com](mailto:ojasvitawalgad@gmail.com) 
 
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
