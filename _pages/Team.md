@@ -8,9 +8,25 @@ redirect_from:
 
 ## Niraj Kumar Singh
 
-* Leading a team of twelve members, who are mentoring about fifteen individuals working as Security guards and Janitors in our college to acquire basic English and Computer skills.
-* Instead of teaching them the skills itself we try to teach them how to learn those skills through youtube.
-:(neuromotive.jpg)
+![test](neuromotive.jpg)
+<img src="neuromotive.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+## Sweta Kumari
+
+![test](neuromotive.jpg)
+<img src="neuromotive.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+## Ojasvita
+
+![test](neuromotive.jpg)
+<img src="neuromotive.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
 ***
