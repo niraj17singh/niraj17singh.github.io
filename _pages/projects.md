@@ -14,8 +14,7 @@ In Visual Attention Model, our Neuromotive team is divided into two groups. One 
 
 ## Eye-Tracker <br>
 * This project was also part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India.
-* After priliminary analysis, modeled temperature data with the Seasonal ARIMA model. Forecast was also done based on the obtained model.
-* Wind speed analysis was done. Here main objective was to find out the monthly blizzard distribution.
+![](neuromotive.jpg)
 
 
 
