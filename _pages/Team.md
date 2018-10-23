@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](Niraj.jpg){height=50%}
+![test](Niraj.jpg){:.some-css-class style="width: 200px"}
 
 ## Niraj Kumar Singh     
 
