@@ -10,28 +10,29 @@ redirect_from:
 Project Associate
 <br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
-***
+
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
-Sweta Kumari<br>
+### Sweta Kumari
 Ph.D Student
-<br>Email Id: neerajajaysingh17@gmail.com
+<br><span style="font-size: 1em;">Email Id:</span>
+[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
-Ojasvita<br>
+###  Ojasvita
 Masters Dual Degree
 <br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-Nikhil<br>
+### Nikhil
 Masters Dual Degree
 <br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-Rajat<br>
+### Rajat<br>
 Masters Dual Degree
 <br>
 Email Id: neerajajaysingh17@gmail.com
