@@ -6,9 +6,9 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## Facial recognition system using convolutional neural network <br>(_July 2017_)
+## Attention Model for Object Detection<br>
 `python` `open-cv` `keras` `VGG-16 Net` `MatConvNet`<br>
-* This project was part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
+* In this model we are focusing on the implementation of the model which will search for the target object in the same manner as human looks at the interested object in the entire image. 
 * I have used the VGG-16 Net architecture and this has been implemented using keras library in python.
 * Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
 * Detailed note of methodology followed is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>[[_Source code_]](https://github.com/anirudhk686/facial_recognition)
