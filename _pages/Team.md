@@ -5,22 +5,22 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-
+<div>
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
-## Niraj Kumar Singh 
+# Niraj Kumar Singh 
 
 
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}    
-## Sweta Kumari
+# Sweta Kumari
 
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
-## Ojasvita
+# Ojasvita
 
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
-## Nikhil
+# Nikhil
 
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
-## Rajat
+# Rajat
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
