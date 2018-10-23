@@ -6,26 +6,23 @@ author_profile: true
 redirect_from: 
 ---
 
-## Niraj Kumar Singh
+![test](neuromotive.jpg)
+<img src="neuromotive.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+## Niraj Kumar Singh     
 
 ![test](neuromotive.jpg)
 <img src="neuromotive.jpg"
-     alt="Markdown Monster icon"
+     alt=""
      style="float: left; margin-right: 10px;" />
      
 ## Sweta Kumari
-
 ![test](neuromotive.jpg)
 <img src="neuromotive.jpg"
-     alt="Markdown Monster icon"
+     alt=""
      style="float: left; margin-right: 10px;" />
-
 ## Ojasvita
-
-![test](neuromotive.jpg)
-<img src="neuromotive.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
