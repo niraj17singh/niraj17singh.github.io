@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Neuromotive"
-  avatar           : "neuromotive.jpeg"
+  avatar           : "neuromotive.jpg"
   bio              : "Developing a Bio-inspired object detection model"
   location         : "IIT Madras,India"
   employer         :
