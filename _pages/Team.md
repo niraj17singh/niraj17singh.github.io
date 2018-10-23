@@ -9,7 +9,7 @@ redirect_from:
 ### Niraj Kumar Singh
 <br>
 Project Associate
-<br><span style="font-size: 2em;">Email Id:</span>
+<br><span style="font-size: 0em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
 ***
 <br>
