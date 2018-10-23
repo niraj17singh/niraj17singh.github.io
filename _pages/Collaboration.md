@@ -6,8 +6,8 @@ author_profile: true
 redirect_from: 
 ---
 ## Collaboration
-![test](a.jpg){:.some-css-class style="width: 300px; height: 300px; "}
-![test](b.jpg){:.some-css-class style="width: 300px; height: 300px; "}
+![test](a.png){:.some-css-class style="width: 300px; height: 300px; "}
+![test](b.png){:.some-css-class style="width: 300px; height: 300px; "}
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
