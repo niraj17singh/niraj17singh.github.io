@@ -5,17 +5,15 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-|![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}|
+![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 ### Niraj Kumar Singh 
 **NOTE**
 
 It works with almost all markdown flavours (the below blank line matters).
 ---
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+::: warning
+*here be dragons*
+:::
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
