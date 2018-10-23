@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](Niraj.jpg){:.some-css-class style="width: 100px; height: 100px; display: block; border-radius: 50%;"}
+![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
 ## Niraj Kumar Singh     
 
 ![test](Sweta.jpeg){:.some-css-class style="width: 100px; height: 100px; display: block; border-radius: 50%;"}    
