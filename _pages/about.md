@@ -14,7 +14,7 @@ We are Neuromotive team working in Computational Neuroscience Lab under Prof. V.
 ![test](cns.png){:.some-css-class style="width: 100px; height: 100px;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computational Neuroscience Lab](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html), Dept. Biotechnology, IIT Madras
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive, Germany](https://www.continental-corporation.com/en)
+![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
 
 
