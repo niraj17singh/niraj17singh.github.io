@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](Niraj.jpg){:.some-css-class style="width: 80px; height: 80px; radius: 40%"}
+![test](Niraj.jpg){:.some-css-class style="width: 80px; height: 80px; display: block; radius: 40%"}
 
 ## Niraj Kumar Singh     
 
