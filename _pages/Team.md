@@ -46,3 +46,19 @@ redirect_from:
 --------------------------------------------------
 | There really      | should be one              |
 --------------------------------------------------
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6" id="div1">
+      Some content...
+    </div>
+    <div class="col-xs-6" id="div2">
+
+      <div id="div2-1">
+
+      </div>
+      <div id="div2-2">
+
+      </div>
+    </div>
+  </div>
+</div>
