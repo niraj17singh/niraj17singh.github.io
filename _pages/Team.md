@@ -13,7 +13,7 @@ redirect_from:
 ![test](Sweta.jpeg)
 <img src="Sweta.jpeg"
      alt=""
-     style="float: left; margin-right: 10px; width: 2px; height: 2px; radius: 50" />
+     style="float: left; margin-right: 10px; max-width:  20px; max-height: 20px; radius: 50" />
      
 ## Sweta Kumari
 ![test](neuromotive.jpg)
