@@ -52,11 +52,8 @@ It works with almost all markdown flavours (the below blank line matters).
     </div>
     <div class="col-xs-6" id="div2">
 
-      <div id="div2-1">
-
-      </div>
       <div id="div2-2">
-
+hi
       </div>
     </div>
   </div>
