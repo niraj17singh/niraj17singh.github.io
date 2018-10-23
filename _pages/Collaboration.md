@@ -7,6 +7,7 @@ redirect_from:
 ---
 ## Collaboration
 Text
+![test](continental.svg){:.some-css-class style="width: 800px; height: 500px; "} 
 <br><br>
 ![test](a.png){:.some-css-class style="width: 800px; height: 500px; "} 
 ![test](b.png){:.some-css-class style="width: 800px; height: 500px; "}
