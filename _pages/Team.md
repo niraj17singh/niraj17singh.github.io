@@ -7,7 +7,7 @@ redirect_from:
 ---
 <p align="center">
   
-  ## Supervisor
+  <b>Supervisor</b>
   
 </p>
 <br>
