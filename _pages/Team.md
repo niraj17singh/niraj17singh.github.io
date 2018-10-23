@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
-It works with almost all markdown flavours (the below blank line matters).
+###Niraj Kumar Singh
 
 ***
 <br>
@@ -37,31 +37,5 @@ It works with almost all markdown flavours (the below blank line matters).
 
 > [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).
 
-***
---------------------------------------------------
-| ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"} | Sadly        | There is none              |
---------------------------------------------------
-| Except this, which is a poor alternative       |
---------------------------------------------------
-| There really      | should be one              |
---------------------------------------------------
-<div class="container">
-    <div class="row">
-	
-	<div class="col-xs-6 col-sm-6">
-            <div id="navigation">
-                <label>side Column</label>
-            </div>
-            
-        </div>
-        <div class="col-xs-6 col-sm-6">
-            <div id="text1">
-                <label>First Divider</label>
-            </div>
-            <div id="text2">
-                <label>second Divider</label>
-            </div>
-        </div>
-        
-    </div>
-</div>
+***   
+---
