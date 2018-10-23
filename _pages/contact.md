@@ -8,6 +8,6 @@ redirect_from:
 
 {{ page.excerpt | markdownify }}
 
-#### <span style="font-size: 2em;">Email :</span>
+#### <span style="font-size: 2em;">Email Id:</span>
  [neuromotivecns@gmail.com](mailto:neuromotivecns@gmail.com) 
  
