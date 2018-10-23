@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Self Driving Car"
-excerpt: "Self Driving Car"
+title: "Introduction"
+excerpt: "Introduction"
 author_profile: true
 redirect_from: 
 ---
