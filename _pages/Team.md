@@ -12,19 +12,23 @@ Project Associate
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
-### Sweta Kumari
+Sweta Kumari
+Ph.D Student
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
-### Ojasvita
+Ojasvita
+Masters Dual Degree
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-### Nikhil
+Nikhil
+Masters Dual Degree
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-### Rajat
+Rajat
+Masters Dual Degree
 ***
 <br>
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
