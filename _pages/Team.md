@@ -5,9 +5,9 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
+![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; alt:"hi"}
 ### Niraj Kumar Singh 
-
+<br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
 ### Sweta Kumari
 <br>
