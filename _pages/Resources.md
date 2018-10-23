@@ -9,9 +9,11 @@ redirect_from:
 ## Resources
 
 * Computational Neuroscience Course which is available in nptel lecture from Prof. V Srinivasa Chakravarthy.
-* [Convolutional Neural Network Theory](http://cs231n.github.io/)
-* [Convolutional Assignment](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
-* [Tensorflow Standford Course] (http://web.stanford.edu/class/cs20si/syllabus.html)
+* Some hand practice of convolutional neural network 
+<br>
+[Convolutional Neural Network Theory](http://cs231n.github.io/)<br>
+[Convolutional Assignment](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)<br>
+[Tensorflow Standford Course](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
 
