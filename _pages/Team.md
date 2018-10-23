@@ -23,7 +23,7 @@ redirect_from:
 
 <p align="center">
   
-  ## Current Members
+  <b>Current Members</b>
   
 </p>
 <br>
