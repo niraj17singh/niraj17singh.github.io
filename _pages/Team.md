@@ -10,6 +10,7 @@ Niraj Kumar Singh
 <br>
 Project Associate
 <br>Email Id: neerajajaysingh17@gmail.com
+[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
