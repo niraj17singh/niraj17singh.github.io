@@ -11,9 +11,7 @@ redirect_from:
 
 It works with almost all markdown flavours (the below blank line matters).
 ---
-::: warning
-*here be dragons*
-:::
+
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
@@ -44,3 +42,10 @@ It works with almost all markdown flavours (the below blank line matters).
 > [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).
 
 ***
+--------------------------------------------------
+| No | Sadly        | There is none              |
+--------------------------------------------------
+| Except this, which is a poor alternative       |
+--------------------------------------------------
+| There really      | should be one              |
+--------------------------------------------------
