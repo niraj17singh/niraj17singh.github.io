@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ![test](Srinivasa.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
-### Prof. V Srinivasa Chakravarthy
+### [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/index.php/v-srinivasa-chakravarthy/)
 Supervisor
 <br><span style="font-size: 1em;">Email Id:</span>
 [srinivasa.chakravarthy@gmail.com](mailto:srinivasa.chakravarthy@gmail.com) 
