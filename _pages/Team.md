@@ -10,7 +10,8 @@ redirect_from:
 Project Associate
 <br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
----
+
+
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
 ### Sweta Kumari
