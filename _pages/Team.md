@@ -10,8 +10,9 @@ redirect_from:
 **NOTE**
 
 It works with almost all markdown flavours (the below blank line matters).
-|
+
 ---
+| Option | Description |
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
