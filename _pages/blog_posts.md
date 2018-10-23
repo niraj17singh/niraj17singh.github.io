@@ -1,5 +1,5 @@
 ---
-permalink: /Blog Posts/
+permalink: /Team/
 title: ""
 excerpt: ""
 author_profile: true
