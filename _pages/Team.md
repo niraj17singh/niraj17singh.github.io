@@ -5,11 +5,9 @@ excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-<div class="thumbnail" style="border:none; background:white;width:50%; height:50%;">
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}
 ### Niraj Kumar Singh 
-</div>
-<br>
+
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; display: block; border-radius: 50%;"}    
 ### Sweta Kumari
 <br>
