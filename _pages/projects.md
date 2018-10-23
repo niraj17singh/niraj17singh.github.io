@@ -14,6 +14,7 @@ In Visual Attention Model, our Neuromotive team is divided into two groups. One 
 
 ## Eye-Tracker <br>
 * This project was also part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India.
+![](neuromotive.jpg)
 <img src="neuromotive.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
