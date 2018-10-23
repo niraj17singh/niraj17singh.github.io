@@ -9,27 +9,32 @@ redirect_from:
 Niraj Kumar Singh
 <br>
 Project Associate
-
+<br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
 Sweta Kumari<br>
 Ph.D Student
+<br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
 Ojasvita<br>
 Masters Dual Degree
+<br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 Nikhil<br>
 Masters Dual Degree
+<br>Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 ![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 Rajat<br>
 Masters Dual Degree
+<br>
+Email Id: neerajajaysingh17@gmail.com
 ***
 <br>
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
