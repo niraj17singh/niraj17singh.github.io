@@ -8,7 +8,7 @@ redirect_from:
 
 ## Resources
 
-1. [Computational Neuroscience Course](https://nptel.ac.in/courses/102106023/) which is available in nptel lecture from [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html).
+1. [Computational Neuroscience Course](https://nptel.ac.in/courses/102106023/) which is available in nptel lecture from [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/index.php/v-srinivasa-chakravarthy/).
 <br>
 
 2. Some hand practice of convolutional neural network.<br> 
