@@ -7,9 +7,7 @@ redirect_from:
 ---
 
 ![test](neuromotive.jpg)
-<img src="neuromotive.jpg"
-     alt=""
-     style="float: left; margin-right: 10px;" />
+
 ## Niraj Kumar Singh     
 
 ![test](neuromotive.jpg)
