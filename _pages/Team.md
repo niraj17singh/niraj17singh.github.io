@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
----It works with almost all markdown flavours (the below blank line matters).
----
+It works with almost all markdown flavours (the below blank line matters).
 
 ***
 <br>
