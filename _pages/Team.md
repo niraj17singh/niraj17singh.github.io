@@ -8,7 +8,7 @@ redirect_from:
 ![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
 ### Niraj Kumar Singh
 Project Associate
-<br><span style="font-size: 0.5em;">Email Id:</span>
+<br><span style="font-size: 1em;">Email Id:</span>
 [neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
 ***
 <br>
