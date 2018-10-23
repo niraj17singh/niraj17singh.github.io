@@ -12,8 +12,11 @@ redirect_from:
 <br>
 
 2. Some hand practice of convolutional neural network.<br> 
-<t><t>[Convolutional Neural Network Theory](http://cs231n.github.io/)<br>
-[Convolutional Assignment](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)<br>
-[Tensorflow Standford Course](http://web.stanford.edu/class/cs20si/syllabus.html)
+
+* [Convolutional Neural Network Theory](http://cs231n.github.io/)<br>
+
+* [Convolutional Assignment](https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)<br>
+
+* [Tensorflow Standford Course](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 
