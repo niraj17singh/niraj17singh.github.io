@@ -10,16 +10,12 @@ redirect_from:
 
 ## Niraj Kumar Singh     
 
-![test](Sweta.jpeg)
-<img src="Sweta.jpeg"
-     alt=""
-     style="float: left; margin-right: 10px; max-width:  20px; max-height: 20px; radius: 50" />
+![test](Sweta.jpeg){:.some-css-class style="width: 80px; height: 80px; radius: 40%"}
+
      
 ## Sweta Kumari
-![test](neuromotive.jpg)
-<img src="neuromotive.jpg"
-     alt=""
-     style="float: left; margin-right: 10px;" />
+![test](neuromotive.jpg){:.some-css-class style="width: 80px; height: 80px; radius: 40%"}
+
 ## Ojasvita
 
 > [**_Project details_**](https://anirudhk686.github.io/Seekhne-Sikhao-Initiative/).
