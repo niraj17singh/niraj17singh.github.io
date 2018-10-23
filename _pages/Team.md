@@ -6,14 +6,14 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](Niraj.jpg = 10x10)
+![test](Niraj.jpg)
 
 ## Niraj Kumar Singh     
 
 ![test](Sweta.jpeg)
 <img src="Sweta.jpeg"
      alt=""
-     style="float: left; margin-right: 10px; width: 2; height: 2;" />
+     style="float: left; margin-right: 10px; width: 2px; height: 2px;" />
      
 ## Sweta Kumari
 ![test](neuromotive.jpg)
