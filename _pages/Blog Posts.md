@@ -1,5 +1,5 @@
 ---
-permalink: /Blog Posts/
+
 title: ""
 excerpt: ""
 author_profile: true
