@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sweta02018"
+title                    : "Neuromotive"
 title_separator          : "-"
-name                     : &name "Sweta Kumari"
+name                     : &name "Neuromotive"
 description              : &description "profile"
-url                      : https://Sweta02018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neuromotive.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sweta02018/Sweta02018.github.io"
+repository               : "Neuromotive/Neuromotive.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sweta Kumari"
-  avatar           : "Sweta.jpeg"
-  bio              : "A curious geek, aspiring to decipher the brain"
+  name             : "Neuromotive"
+  avatar           : "neuromotive.jpeg"
+  bio              : "Developing a Bio-inspired object detection model"
   location         : "IIT Madras,India"
   employer         :
   googlescholar    : 
-  email            : "sweta.csebcetw@gmail.com"
+  email            : "neuromotivecns@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sweta02018"
+  github           : "Neuromotive"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sweta-kumari-b7a9a5117/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Sweta96233?s=03"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
