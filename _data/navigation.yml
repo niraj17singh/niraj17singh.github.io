@@ -6,11 +6,14 @@ main:
   - title: "Projects"
     url: /Projects/  
     
-  - title: "Resume"
-    url: /files/Anirudh_resume.pdf
+  - title: "Resources"
+    url: /Resources/
     
-  - title: "Blog Posts"
-    url: /Blog Posts/
+  - title: "Team"
+    url: /Team/
     
-  - title: "Contact_us"
-    url: /Contact_us/
+  - title: "Collaboration"
+    url: /Collaboration/
+    
+  - title: "Contact us"
+    url: /Contact/
