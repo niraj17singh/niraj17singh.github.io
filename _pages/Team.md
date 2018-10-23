@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-![test](Niraj.jpg)
+![test](Niraj.jpg = 10x10)
 
 ## Niraj Kumar Singh     
 
