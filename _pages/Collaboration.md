@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
 ---
 ## Collaboration
-Text
 <br><br>
 ![test](2.jpg){:.some-css-class style="width: 360px; height: 300px; "} 
 &nbsp;&nbsp;&nbsp;&nbsp;
