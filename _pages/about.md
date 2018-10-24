@@ -19,7 +19,9 @@ Our lab had developed a comprehensive computational model of hippocampal spatial
 Our lab is currently engaged with Continental Automotive aiming at designing bioinspired ADAS systems. Our immediate objective for the first year is to create an Object Detection system from road video based on Attentional Search.  
 </p>
 
-<p style='text-align: justify; font-size:2px;'>  
+***
+
+<p style='text-align: justify; font-size:20px;'>  
 Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).
   </p>
 <br>
