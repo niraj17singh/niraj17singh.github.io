@@ -13,7 +13,7 @@ In Visual Attention Model, our Neuromotive team is divided into two groups. One 
 
 
 ## Eye-Tracker <br>
-
+* By analyzing eye-movement data, for example where people fixate and how long they fixate for, researchers can gain important insights into a number of cognitive operations involved in a wide range of behavior
 
 
 
