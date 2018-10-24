@@ -8,6 +8,7 @@ redirect_from:
 ***
 ### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive:
 
+<p>
 Although deep neural networks have been successfully applied to solve various problems related to automotive navigation and have been pushing the development of Advanced Driver-Assistance Systems (ADAS), they fall short of human performance by a wide margin. The original inspiration behind deep neural networks is indisputably biological and neural. But the inspiration had borrowed to broad ideas from brain science: the idea of a neuron and the idea of a trainable network. The program of borrowing ideas from the brain perhaps has not been carried through to its consummation. To design more human-like ADAS systems one has to look for inspiration deeper in the brain, at the level of brain architecture.
 There is a demand to create ADAS systems that emulate the brain at the architecture level. In mammalian brains, hippocampus received a lot of attention as a key system involved in spatial navigation. The discovery of place and grid cells, - cells that encode the surrounding space in intriguing ways, - was awarded the Nobel prize in physiology and medicine in 2014. 
 [https://medicalxpress.com/news/2014-10-trio-nobel-medicine-prize-brain.html](https://medicalxpress.com/news/2014-10-trio-nobel-medicine-prize-brain.html)
@@ -38,7 +39,7 @@ Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Ch
 
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
-
+</P>
 
   <Edit required>
 
