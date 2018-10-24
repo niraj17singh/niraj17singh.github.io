@@ -9,11 +9,11 @@ redirect_from:
 Text
 <br><br>
 ![test](2.jpg){:.some-css-class style="width: 350px; height: 350px; "} 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![test](3.jpg){:.some-css-class style="width: 350px; height: 350px;"}
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![test](4.jpg){:.some-css-class style="width: 350px; height: 350px;"}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+![test](3.jpg){:.some-css-class style="width: 350px; height: 350px;"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![test](a.png){:.some-css-class style="width: 350px; height: 350px;"}
 
 
