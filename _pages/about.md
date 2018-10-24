@@ -21,12 +21,8 @@ Our lab is currently engaged with Continental Automotive aiming at designing bio
 
 ***
 
-<p style='text-align: justify; font-size:12px;'>  
-Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).
-</p>
-<p style='text-align: justify; font-size:12px;'>  
-Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A unified hierarchical oscillatory network model of head direction cells, spatially periodic cells, and place cells." European Journal of Neuroscience 47.10 (2018): 1266-1281.
-  </p>
+##### Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).
+##### Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A unified hierarchical oscillatory network model of head direction cells, spatially periodic cells, and place cells." European Journal of Neuroscience 47.10 (2018): 1266-1281.
 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejn.13918)
 
 ##### Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space.[PDF](https://www.biorxiv.org/content/early/2018/02/13/264366.full.pdf)
