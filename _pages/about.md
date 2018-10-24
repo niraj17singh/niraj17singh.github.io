@@ -14,7 +14,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
-<br>
+<br><br><br>
 
 ### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive:
 
