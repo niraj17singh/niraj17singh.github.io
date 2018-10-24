@@ -44,7 +44,6 @@ Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian N
 Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Chakravarthy, S. (2017). A computational model that explores the effect of environmental geometries on grid cell representations. (Bioarxiv)
 <br>
 
-
   <Edit required>
 
 
