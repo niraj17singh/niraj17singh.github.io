@@ -7,7 +7,7 @@ redirect_from:
 ---
 ***
 
-<md-divider vertical> text</md-divider>
+.form-row [class^="col-"] { padding-top: 0; padding-bottom: 0; }
 
 ![test](iitm.png){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
