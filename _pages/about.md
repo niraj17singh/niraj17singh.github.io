@@ -16,7 +16,7 @@ redirect_from:
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
 
-### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive:
+### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive: Helo
 
 <p style='text-align: justify;'>  
 Although deep neural networks have been successfully applied to solve various problems related to automotive navigation and have been pushing the development of Advanced Driver-Assistance Systems (ADAS), they fall short of human performance by a wide margin. The original inspiration behind deep neural networks is indisputably biological and neural. But the inspiration had borrowed to broad ideas from brain science: the idea of a neuron and the idea of a trainable network. The program of borrowing ideas from the brain perhaps has not been carried through to its consummation. To design more human-like ADAS systems one has to look for inspiration deeper in the brain, at the level of brain architecture.
