@@ -8,14 +8,13 @@ redirect_from:
 ## Collaboration
 Text
 <br><br>
-![test](1.jpg){:.some-css-class style="width: 500px; height: 500px; "} 
+![test](2.jpg){:.some-css-class style="width: 350px; height: 350px; "} 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![test](2.jpg){:.some-css-class style="width: 500px; height: 500px;"}
+![test](3.jpg){:.some-css-class style="width: 350px; height: 350px;"}
 <br><br>
-![test](3.jpg){:.some-css-class style="width: 500px; height: 500px;"}
+![test](4.jpg){:.some-css-class style="width: 350px; height: 350px;"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![test](4.jpg){:.some-css-class style="width: 500px; height: 500px;"}
+![test](a.png){:.some-css-class style="width: 350px; height: 350px;"}
 
-![test](a.png){:.some-css-class style="width: 500px; height: 500px; "} 
-![test](b.png){:.some-css-class style="width: 500px; height: 500px; "}
+
 
