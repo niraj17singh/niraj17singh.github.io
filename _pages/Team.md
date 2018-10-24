@@ -15,11 +15,9 @@ redirect_from:
 ### [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/index.php/v-srinivasa-chakravarthy/)
 <span style="font-size: 1em;">Email Id:</span>
 [srinivasa.chakravarthy@gmail.com](mailto:srinivasa.chakravarthy@gmail.com) 
-<br>
 
 ***
 
-<br>
 
 <p align="center">
   
