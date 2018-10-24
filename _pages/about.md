@@ -21,7 +21,7 @@ Our lab is currently engaged with Continental Automotive aiming at designing bio
 
 ***
 
-<p style='text-align: justify; font-size:20px;'>  
+<p style='text-align: justify; font-size:10px;'>  
 Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).
   </p>
 <br>
