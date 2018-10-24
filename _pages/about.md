@@ -29,10 +29,7 @@ Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A uni
   </p>
 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejn.13918)
 
-<p style='text-align: justify; font-size:12px;'>  
-Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space. 
-   
-   [PDF](https://www.biorxiv.org/content/early/2018/02/13/264366.full.pdf)</p>
+# Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space.[PDF](https://www.biorxiv.org/content/early/2018/02/13/264366.full.pdf)
 
 <p style='text-align: justify; font-size:12px;'>  
 Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Chakravarthy, S. (2017). A computational model that explores the effect of environmental geometries on grid cell representations. (Bioarxiv)
