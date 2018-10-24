@@ -6,7 +6,9 @@ author_profile: true
 redirect_from: 
 ---
 ***
-<md-divider vertical>
+
+<md-divider vertical> text</md-divider>
+
 ![test](iitm.png){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15,7 +17,6 @@ redirect_from:
 
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
-</md-divider>
 
 ***
 
