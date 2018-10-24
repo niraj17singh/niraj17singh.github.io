@@ -18,6 +18,7 @@ There is a demand to create ADAS systems that emulate the brain at the architect
 
 Our lab had developed a comprehensive computational model of hippocampal spatial cells. It is a singular that shows emergence of a variety of spatial cells including head direction cells, place cells, grid cells, border cells and corner cells. But spatial navigation in the brain is conducted by hippocampus in isolation. There is an extensive cortical and subcortical network that includes, in addition to the hippocampus, the parietal, temporal and prefrontal areas. Future efforts will include modeling the cortico-subcortical interactions underlying spatial navigation. We plan to use the above computational neuroscience based models of spatial navigation in design of ADAS systems.
 Our lab is currently engaged with Continental Automotive aiming at designing bioinspired ADAS systems. Our immediate objective for the first year is to create an Object Detection system from road video based on Attentional Search.  
+</p>
 
 
 
@@ -42,7 +43,6 @@ Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Ch
 
 ![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
-</p>
 
   <Edit required>
 
