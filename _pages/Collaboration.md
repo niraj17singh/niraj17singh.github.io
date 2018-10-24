@@ -12,9 +12,9 @@ Text
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![test](4.jpg){:.some-css-class style="width: 350px; height: 300px;"}
 <br><br>
-![test](3.jpg){:.some-css-class style="width: 350px; height: 350px;"}
+![test](3.jpg){:.some-css-class style="width: 350px; height: 300px;"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![test](a.png){:.some-css-class style="width: 350px; height: 350px;"}
+![test](a.png){:.some-css-class style="width: 350px; height: 300px;"}
 
 
 
