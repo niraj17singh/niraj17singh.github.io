@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 <p align="center">
-  
   <b>Supervisor</b>
-  
 </p>
 <br>
 ![test](Srinivasa.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
@@ -17,7 +15,6 @@ redirect_from:
 [srinivasa.chakravarthy@gmail.com](mailto:srinivasa.chakravarthy@gmail.com) 
 
 ***
-
 
 <p align="center">
   
