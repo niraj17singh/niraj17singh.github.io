@@ -24,23 +24,19 @@ Our lab is currently engaged with Continental Automotive aiming at designing bio
 <p style='text-align: justify; font-size:12px;'>  
 Soman, Karthik, Vignesh Muralidharan, and V. Srinivasa Chakravarthy "An Oscillatory Neural Autoencoder based on Frequency Modulation and Multiplexing" Frontiers in computational neuroscience, 2018 (In Press).
 </p>
-<br>
 <p style='text-align: justify; font-size:12px;'>  
 Soman, Karthik, Vignesh Muralidharan, and Vaddadi Srinivasa Chakravarthy. "A unified hierarchical oscillatory network model of head direction cells, spatially periodic cells, and place cells." European Journal of Neuroscience 47.10 (2018): 1266-1281.
   </p>
 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejn.13918)
 
-<br>
 <p style='text-align: justify; font-size:12px;'>  
 Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian Network Model for the Formation of Spatial Cells in Three-Dimensional Space. 
    </p>
    [PDF](https://www.biorxiv.org/content/early/2018/02/13/264366.full.pdf)
-<br>
 
 <p style='text-align: justify; font-size:12px;'>  
 Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Chakravarthy, S. (2017). A computational model that explores the effect of environmental geometries on grid cell representations. (Bioarxiv)
   </p>
-<br>
 
 
 ***
