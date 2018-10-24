@@ -8,17 +8,6 @@ redirect_from:
 ***
 
 
-![test](iitm.png){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![test](cns.png){:.some-css-class style="width: 100px; height: 100px;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computational Neuroscience Lab](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html), Dept. Biotechnology, IIT Madras
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
-<br>
-
-***
-
 ### Developing bio-inspired Advanced Driver- Assistance Systems (ADAS) for Continental Automotive:
 
 <p style='text-align: justify;'>  
@@ -41,6 +30,17 @@ Soman, K., Chakravarthy, S., & Yartsev, M. (2018). A Hierarchical Anti-Hebbian N
 <br>
 
 Jayakumar, S., Narayanamurthy, R., Ramesh, R., Soman, K., Muralidharan, V., & Chakravarthy, S. (2017). A computational model that explores the effect of environmental geometries on grid cell representations. (Bioarxiv)
+<br>
+
+***
+
+![test](iitm.png){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+![test](cns.png){:.some-css-class style="width: 100px; height: 100px;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Computational Neuroscience Lab](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html), Dept. Biotechnology, IIT Madras
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+![test](conti.svg){:.some-css-class style="width: 100px; height: 100px; "}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Continental Automotive](https://www.continental-corporation.com/en), Germany
 <br>
 
   <Edit required>
