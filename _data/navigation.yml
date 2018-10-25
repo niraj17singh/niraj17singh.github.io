@@ -3,17 +3,21 @@ main:
   - title: "Home"
     url: #
     
+  - title: "Experience"
+    url: /Experience/  
+    
   - title: "Projects"
-    url: /Projects/  
+    url: /Projects/
     
-  - title: "Resources"
-    url: /Resources/
+  - title: "Achievements"
+    url: /Achievements/
     
-  - title: "Team"
-    url: /Team/
+  - title: "Resume"
+    url: /Resume/
     
-  - title: "Collaboration"
-    url: /Collaboration/
+  - title: "Contact"
+    url: /Contact/
     
-  - title: "Contact us"
-    url: /Contact us/
+  - title: "Blog"
+    url: /Blog/
+    
