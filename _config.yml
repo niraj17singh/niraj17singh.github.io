@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neuromotive"
+title                    : "Niraj Kumar Singh"
 title_separator          : "-"
-name                     : &name "Neuromotive"
+name                     : &name "Niraj Kumar Singh"
 description              : &description "profile"
-url                      : https://neuromotive.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://niraj17singh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Neuromotive/Neuromotive.github.io"
+repository               : "niraj17singh/niraj17singh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Neuromotive"
-  avatar           : "neuromotive.png"
-  bio              : "Developing a Bio-inspired object detection model"
+  name             : "Niraj Kumar Singh"
+  avatar           : "niraj.png"
+  bio              : "Understanding the brain"
   location         : "IIT Madras,India"
   employer         :
   googlescholar    : 
-  email            : "neuromotivecns@gmail.com"
+  email            : "neerajajaysingh17@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Neuromotive"
+  github           : "niraj17singh"
   google_plus      :
   keybase          :
   instagram        :
