@@ -52,7 +52,7 @@ Ph.D Student
 ***
 
 <br>
-![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
+![test](ojasvita.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
 ###  Ojasvita
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
@@ -62,7 +62,7 @@ Masters Dual Degree
 ***
 
 <br>
-![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
+![test](nikhil.png){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 ### Nikhil
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
@@ -72,7 +72,7 @@ Masters Dual Degree
 ***
 
 <br>
-![test](neuromotive.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
+![test](rajat.png){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
 ### Rajat<br>
 Masters Dual Degree
 <br><span style="font-size: 1em;">Email Id:</span>
