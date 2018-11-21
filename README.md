@@ -1,2 +1,2 @@
-# Sweta02018.github.io
+# niraj17singh.github.io
 personal website
