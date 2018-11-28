@@ -1,87 +1,16 @@
 ---
-permalink: /Experience/
+permalink: /Publications/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
 ---
-<p align="center">
-  <b>Supervisor</b>
-</p>
-<br>
+## Publications
+A bio-inspired model for object detection using RL & Q-NetworkChennai, IndiaNiraj Singh, Sweta Kumari, V. Srinivasa Chakravarthy, Jitendra KumarJuly 2018◦Manuscript in preparation
 
-![test](Srinivasa.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
-### [Prof. V Srinivasa Chakravarthy](https://biotech.iitm.ac.in/index.php/v-srinivasa-chakravarthy/)
-<span style="font-size: 1em;">Email Id:</span>
-[srinivasa.chakravarthy@gmail.com](mailto:srinivasa.chakravarthy@gmail.com) 
+Traffic Sign Detection using a modified Deep Q Neural NetworkChennai, IndiaNiraj Singh, Sweta Kumari, V. Srinivasa Chakravarthy, Jitendra KumarJuly 2018◦Conference paper:International Academic Conference on Engineering, Transport, IT & Artificial IntelligenceBudapest
 
-***
+Poster presentation:The First Annual Conference on Recent Advances in Data Science and AI  Chennai, India•
 
-<p align="center">
-  
-  <b>Current Members</b>
-  
-</p>
-<br>
-![test](Niraj.jpg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%; bottom-margin:0px;"}
-### Niraj Kumar Singh
-Project Associate
-<br><span style="font-size: 1em;">Email Id:</span>
-[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
-<br>
+Detecting organic pollutants in water, with transformedE. coliChennai, IndiaAman, Anjani, Anil, Sanjan, Janu Sahana, Saransh, Siva Sai, Rajiv, Niraj KSDec 2015◦Conference paper:OYCE international conference, Mumbai India◦Poster presentation:Research Expo at Shaastra 2015, IIT Madras, Chennai, India
 
-***
-
-<br>
-![test](Sweta.jpeg){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
-### Sweta Kumari
-Ph.D Student
-<br><span style="font-size: 1em;">Email Id:</span>
-[sweta.csebcetw@gmail.com](mailto:sweta.csebcetw@gmail.com) 
-<br>
-
-***
-
-<br>
-![test](Tamizharasan.gif){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}    
-### Tamizharasan Kanagamani
-Ph.D Student
-<br><span style="font-size: 1em;">Email Id:</span>
-[tamizharasan.mit@gmail.com](mailto:tamizharasan.mit@gmail.com) 
-<br>
-
-***
-
-<br>
-![test](ojasvita.jpg){:.some-css-class style="width: 150px; height: 150px;  border-radius: 50%;"}
-###  Ojasvita
-Masters Dual Degree
-<br><span style="font-size: 1em;">Email Id:</span>
-[ojasvitawalgad@gmail.com](mailto:ojasvitawalgad@gmail.com) 
-<br>
-
-***
-
-<br>
-![test](nikhil.png){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-### Nikhil
-Masters Dual Degree
-<br><span style="font-size: 1em;">Email Id:</span>
-[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
-<br>
-
-***
-
-<br>
-![test](rajat.png){:.some-css-class style="width: 150px; height: 150px; border-radius: 50%;"}
-### Rajat<br>
-Masters Dual Degree
-<br><span style="font-size: 1em;">Email Id:</span>
-[neerajajaysingh17@gmail.com](mailto:neerajajaysingh17@gmail.com) 
-<br>
-
-***
-
-<br>
-
----
