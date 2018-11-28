@@ -7,22 +7,41 @@ fullwidth: true
 redirect_from: 
 ---
 ## Projects
-### Computational Neuroscience Chennai, India, Prof.  V. Srinivasa Chakravarthy, Department of Biotechnology, IIT Madras, Aug 2017 – Nov 2017. 
+### Computational Neuroscience, Chennai, India, Prof.  V. Srinivasa Chakravarthy, Department of Biotechnology, IIT Madras, Aug 2017 – Nov 2017. 
+
+* Implemented the code on Fashion MNIST dataset.  Achieved an accuracy of 92% and on the task of object classification.
+
+* Implemented CNN model for handwritten digit recognition tasks on MNIST dataset and observed weights encoding foredges and corners.
+
 * Implemented Hodgkin-Huxley and Fitzhugh Nagumo models on MATLAB. Observed variations in action potential when external current was varied, and identified the stable and unstable points. 
 
-* Implemented CNN model for handwritten digit recognition tasks on MNIST dataset and observed weights encoding foredges and corners. 
 
-* Deep Learning Chennai, India, Dr.Mitesh Khapra, Computer Science Department, IIT Madras, Jan 2018 – Feb 2018. Wrote python script using NumPy library to execute feedforward and backpropagation algorithm. Implemented the code on Fashion MNIST dataset.  Achieved an accuracy of 92% and on the task of object classification.•Leadership WorkshopSeoul, South KoreaProf.  Yungki Kim, School of International Studies, Hanyang University, Nov 2016 – Dec 2016. Made a business model for a tour company conceptualizing post Korean unification scenario, as a part of Leadership Workshop course. Received the first position among 7 international teams, and secured the top grade in the course.
-Modelling bio-inspired attention for traffic sign detectionChennai, India, Prof.  Srinivasa Chakravarthy, Computational Neuroscience Lab, IIT Madras, June 2018 – Present
 
-◦Recording human gaze data, using GP3 Eye-tracker and PyGaze python library to analyze human search behaviour.
+### Deep Learning Chennai, India, Dr.Mitesh Khapra, Computer Science Department, IIT Madras, Jan 2018 – Feb 2018. 
 
-◦Using road data at two different scales to develop a bio-inspired attention model using Q-Network and reinforcement learning.
-•Modelling prediction of traffic signs in road video data, Chennai, India, Prof.  Srinivasa Chakravarthy, Computational Neuroscience Lab, IIT Madras, June 2018 – May 2018
+* Wrote python script using NumPy library to execute feedforward and backpropagation algorithm. 
 
-◦ Developed an end to end pipeline using CNN and Q-Network with reinforcement learning for predicting traffic signs inroad video data.
 
-◦Demonstrated 2% increase in the accuracy compared to state-of-the-art algorithms, YOLO and Faster R-CNN for trafficsign detection.
+### Leadership Workshop Seoul, South Korea, Prof. Yungki Kim, School of International Studies, Hanyang University, Nov 2016 – Dec 2016. 
+
+* Made a business model for a tour company conceptualizing post Korean unification scenario, as a part of Leadership Workshop course.
+
+* Received the first position among 7 international teams, and secured the top grade in the course.
+
+
+### Project Associate in Computational Neuroscience Lab, Department of Biotechnology, Chennai, India, IIT Madras, Prof.  V. Srinivasa Chakravarthy, June 2018 – Present. 
+
+#### Modelling bio-inspired attention for traffic sign detection, June 2018 – Present
+
+* Recording human gaze data, using GP3 Eye-tracker and PyGaze python library to analyze human search behaviour, June 2018 – Present.
+
+* Using road data at two different scales to develop a bio-inspired attention model using Q-Network and reinforcement learning, June 2018 – Present.
+
+#### Modelling prediction of traffic signs in road video data, June 2018 – May 2018
+
+* Developed an end-to-end pipeline using CNN and Q-Network with reinforcement learning for predicting traffic signs in road video data.
+
+* Demonstrated 2% increase in the accuracy compared to state-of-the-art algorithms, YOLO and Faster R-CNN for trafficsign detection.
 
 ◦The project lead to a one-year research collaboration with Continental Automotive, an automotive company, for developing bio-inspired models for traffic sign in self-driving cars.
 
