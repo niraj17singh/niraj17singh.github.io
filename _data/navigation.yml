@@ -9,7 +9,7 @@ main:
   - title: "Achievements"
     url: /Achievements/
     
- - title: "Publications"
+  - title: "Publications"
     url: /Publications/  
     
   - title: "Resume"
