@@ -6,11 +6,11 @@ main:
   - title: "Projects"
     url: /Projects/
     
-  - title: "Achievements"
-    url: /Achievements/
-    
   - title: "Publications"
     url: /Publications/  
+    
+  - title: "Achievements"
+    url: /Achievements/ 
     
   - title: "Resume"
     url: /Niraj_Resume-3.pdf
@@ -18,6 +18,6 @@ main:
   - title: "Contact"
     url: /Contact/
     
-  - title: "Blog"
-    url: /Blog/
+ # - title: "Blog"
+ #   url: /Blog/
     
