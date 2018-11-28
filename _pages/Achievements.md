@@ -6,14 +6,12 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## Introduction
-In Visual Attention Model, our Neuromotive team is divided into two groups. One is working in attention model and the other one is working in Eye-Tracker.  
-## Attention Model for Object Detection<br>
-* In this work we are focusing to implement the model which will search for the target object in the same manner as human looks at the interested object in the entire image. 
+## Achievements
+* Secured All India Rank-82 in GATE 2017, top 1% among appeared candidates across India
 
+* Secured 2nd position in Manual Robotics at Pragyan, Techical Festival of National Institute of TechnologyTrichy
 
-## Eye-Tracker <br>
-* By analyzing eye-movement data, for example where people fixate and how long they fixate for, researchers can gain important insights into a number of cognitive operations involved in a wide range of behavior
+* Top 1% of the examinees in INAO, after selection into Astronomy Olympiad level - I held annually by IAPT Nov 2012 
 
 
 
