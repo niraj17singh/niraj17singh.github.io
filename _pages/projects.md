@@ -9,14 +9,14 @@ redirect_from:
 ## Projects
 ### Project Associate in Computational Neuroscience Lab, , Prof.  V. Srinivasa Chakravarthy, Department of Biotechnology, Chennai, India, IIT Madras, June 2018 – Present. 
 
-#### Modelling bio-inspired attention for traffic sign detection, June 2018 – Present
+### 1. Modelling bio-inspired attention for traffic sign detection, June 2018 – Present
 
 * Recording human gaze data, using GP3 Eye-tracker and PyGaze python library to analyze human search behaviour.
 
 * Using road data at two different scales to develop a bio-inspired attention model using Q-Network and reinforcement learning.
 
 
-#### Modelling prediction of traffic signs in road video data, June 2018 – May 2018
+### 2. Modelling prediction of traffic signs in road video data, June 2018 – May 2018
 
 * Developed an end-to-end pipeline using CNN and Q-Network with reinforcement learning for predicting traffic signs in road video data.
 
