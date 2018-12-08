@@ -47,5 +47,5 @@ redirect_from:
 * Identified the lethal dose of phytohormones, which can be used to develop novel pest controls in Asian agricultural farms.
 
 
-[![Deep Learning](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg#thumbnail "Bio-Inspired Model")](https://youtu.be/6VNI9nnxYeA?t=1)
+[![Deep Learning](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg#thumbnail bordered "Bio-Inspired Model")](https://youtu.be/6VNI9nnxYeA?t=1)
 
