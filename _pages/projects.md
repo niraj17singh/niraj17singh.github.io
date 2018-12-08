@@ -48,7 +48,3 @@ redirect_from:
 
 [![thumbnail](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg "Bio-Inspired Model")](https://youtu.be/6VNI9nnxYeA?t=1)
 
-img[alt=thumbnail] {
-   width:150px;
-   height:100px;
-}
