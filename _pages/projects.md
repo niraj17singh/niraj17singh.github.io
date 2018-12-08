@@ -48,3 +48,7 @@ redirect_from:
 
 
 [![Deep Learning](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg#thumbnail)](https://youtu.be/6VNI9nnxYeA?t=1)
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
