@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Publications
 
-#### A bio-inspired model for object detection using RL & Q-Network,  Niraj Singh, Sweta Kumari, V. Srinivasa Chakravarthy, Jitendra Kumar,Chennai, India, July 2018 (Manuscript in preparation)
+#### A bio-inspired model for object detection using RL & Q-Network,  Niraj Singh, Sweta Kumari, V. Srinivasa Chakravarthy, Jitendra Kumar,Chennai, India, July 2018 *(Manuscript in preparation)*
 
 #### Traffic Sign Detection using a modified Deep Q Neural Network, Niraj Singh, Sweta Kumari, V. Srinivasa Chakravarthy, Jitendra Kumar, Chennai, India, July 2018 
 * Conference paper:International Academic Conference on Engineering, Transport, IT & Artificial Intelligence Budapest
