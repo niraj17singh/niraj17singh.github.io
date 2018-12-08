@@ -50,7 +50,7 @@ img[src~="https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg"] {
    width:150px;
    height:100px;
 }
-img[src~="bordered"] {
+img[src~="https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg"] {
    border: 1px solid black;
 }
 
