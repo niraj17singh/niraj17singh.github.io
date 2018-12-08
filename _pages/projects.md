@@ -46,5 +46,5 @@ redirect_from:
 * Reared two moths:  S. litura and H.armigera, from egg to adult stage in a controlled environment. Analyzed the effect of phytohormones on the moths, which were fed on artificial food prepared using chickpea flour and essential vitamins.
 * Identified the lethal dose of phytohormones, which can be used to develop novel pest controls in Asian agricultural farms.
 
-![Deep Learning](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg)(https://youtu.be/6VNI9nnxYeA?t=1)
+![Deep Learning](https:\/\/i.ytimg.com\/vi\/6VNI9nnxYeA\/default.jpg){:height="700px" width="400px"}(https://youtu.be/6VNI9nnxYeA?t=1)
 
